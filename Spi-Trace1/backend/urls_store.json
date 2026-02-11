@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
+    "name": "Wiki",
+    "status": "enabled",
+    "addedAt": "2026-02-07T18:32:26.706986"
+  },
+  {
+    "id": "1770469434228",
+    "url": "https://www.amazon.in/deals?ref_=nav_cs_gb",
+    "name": "Amazon",
+    "status": "enabled",
+    "addedAt": "2026-02-07T18:33:54.228707"
+  },
+  {
+    "id": "1770469543845",
+    "url": "https://www.indianbank.net.in/jsp/startIB.jsp",
+    "name": "Indian Bank",
+    "status": "enabled",
+    "addedAt": "2026-02-07T18:35:43.845647"
+  },
+  {
+    "id": "1770469640937",
+    "url": "https://databreaches.net/about/",
+    "name": "FAKE Data Leak Site",
+    "status": "enabled",
+    "addedAt": "2026-02-07T18:37:20.937605"
+  },
+  {
+    "id": "1770469719183",
+    "url": "https://nerdslab.in/",
+    "name": "Nerds Lab",
+    "status": "enabled",
+    "addedAt": "2026-02-07T18:38:39.183191"
+  },
+  {
+    "id": "1770678408716",
+    "url": "PITS",
+    "name": "https://www.parisuthamtech.com/",
+    "status": "enabled",
+    "addedAt": "2026-02-10T04:36:48.716986"
+  }
+]
